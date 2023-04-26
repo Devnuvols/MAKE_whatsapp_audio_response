@@ -5,6 +5,7 @@ WHATSAPP AUDIO RESPONSE
 Con esta automatización vamos a capturar los mensajes de audio de WhatsApp
 y generamos una respuesta mediante OpenAI
 
+https://nocodetips.blogspot.com/2023/04/whatsapp-audio-openai-auto-reply.html
 
 descarga el archivo .JSON
 
